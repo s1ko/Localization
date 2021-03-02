@@ -2050,7 +2050,7 @@ msgid "Left Profile"
 msgstr "Perfil izquierdo"
 
 msgid "Right Profile"
-msgstr "Perfil correcto"
+msgstr "Perfil derecho"
 
 msgid "Time Statistics"
 msgstr "Estadísticas de tiempo"
